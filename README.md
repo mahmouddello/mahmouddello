@@ -27,9 +27,7 @@
 </a>
 <br>
 
-# <img src="./images/quotes.gif" width="20px"> Where to Find Me <img src="./images/quotes.gif" width="20px">
-<p align="center">
+# <img src="./images/quotes.gif" width="20px"> Socials <img src="./images/quotes.gif" width="20px">
 <a href="https://www.linkedin.com/in/mahmoud-dello/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="https://www.instagram.com/mahmod.dello"><img src="https://skillicons.dev/icons?i=instagram"></a>
-</p>
 
