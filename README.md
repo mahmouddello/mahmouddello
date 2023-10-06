@@ -1,6 +1,6 @@
 <img src="./images/coding_vibes.gif" width="846.67px">
 
-# <img src="./images/rotating_code.gif" width="20px"> Meet the  Developer <img src="./images/rotating_code.gif" width="20px">
+# <img src="./images/rotating_code.gif" width="20px"> About Me <img src="./images/rotating_code.gif" width="20px">
 💻 I'm Mahmoud, a Software Engineering Student. <br> 
 🐍 Python is my preferred programming language.<br> 
 📊 I recently started exploring the world of Data Science.<br>
