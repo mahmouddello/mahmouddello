@@ -22,7 +22,7 @@
     </div>
     <div>
         <h3>Tools</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,idea"/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse"/>
     </div>
 </a>
 <br>
