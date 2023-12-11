@@ -1,4 +1,4 @@
-<img src="./images/coding_vibes.gif" width="846.67px">
+<img src="./images/statistics.gif" width="846.67px">
 
 # <img src="./images/rotating_code.gif" width="20px"> About Me <img src="./images/rotating_code.gif" width="20px">
 💻 I'm Mahmoud, a Software Engineering Student. <br> 
