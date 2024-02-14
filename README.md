@@ -9,12 +9,12 @@
 <img src="https://skillicons.dev/icons?i=python,flask,java,spring,html,css,js,postgres,mongo">
 
 ## Socials
-<a href="https://github.com/mahmouddello">
+<a style="text-decoration: none" href="https://github.com/mahmouddello">
     <img src="https://skillicons.dev/icons?i=github" alt="github">
 </a>
-<a href="https://stackoverflow.com/users/21605285/mahmoud-dello">
+<a style="text-decoration: none" href="https://stackoverflow.com/users/21605285/mahmoud-dello">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow">
 </a>
-<a href="https://www.linkedin.com/in/mahmoud-dello/">
+<a style="text-decoration: none" href="https://www.linkedin.com/in/mahmoud-dello/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin">
 </a>
