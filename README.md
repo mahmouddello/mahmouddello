@@ -9,6 +9,5 @@
 <img src="https://skillicons.dev/icons?i=python,flask,java,spring,html,css,js,postgres,mongo" alt="skills">
 
 ## Socials
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mahmouddello)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21605285/mahmoud-dello)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahmoud-dello/)
