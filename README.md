@@ -1,7 +1,7 @@
 # Hi, I'm Mahmoud 👋
 
 ## About Me
-* I'm a Software Engineering Student 👨🏻‍💻
+* I'm a Jr. Software Engineer 👨🏻‍💻
 * Python is my preferred programming language 🐍
 * I'm currently studying Data Science 📊
 
