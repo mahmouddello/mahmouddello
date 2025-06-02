@@ -1,13 +1,14 @@
-# Hi, I'm Mahmoud 👋
+# 👋 Hi, I'm Mahmoud
+### Junior Software Engineer | Problem Solver | Backend Enthusiast
 
-## About Me
-* I'm a Jr. Software Engineer 👨🏻‍💻
-* Python is my preferred programming language 🐍
-* I'm currently studying Data Science 📊
+## 🧑‍💻 About Me
+- I'm a Junior Software Engineer with a passion for clean, efficient code.
+- My primary languages are **C++**, **C#**, and **Python**.
+- Currently focused on enhancing my problem-solving skills and diving deeper into backend development.
 
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=python,flask,java,spring,html,css,js,postgres,mongo" alt="skills">
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,flask,postgres,mongo" alt="C++, C#, Java, Python, Flask, PostgreSQL, MongoDB">
 
-## Socials
+## 🌐 Connect with Me
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21605285/mahmoud-dello)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahmoud-dello/)
