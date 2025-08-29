@@ -12,4 +12,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahmoud-dello/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mahmoddello68@gmail.com)
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21605285/mahmoud-dello)
+<!---[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/21605285/mahmoud-dello)-->
